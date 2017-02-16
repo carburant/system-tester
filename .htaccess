@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    SetEnv REWRITE_MOD_ENABLER 1
+</IfModule>
